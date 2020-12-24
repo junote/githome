@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2020-12-17.md",
+            "file": "2020-12-24.md",
             "mode": "source"
           }
         }
@@ -40,12 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "query": ""
               }
             }
           }
@@ -69,12 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2020-12-17.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "2020-12-24.md"
               }
             }
           }
@@ -86,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2020-12-24.md",
+    "2020-12-22.md",
     "2020-12-17.md",
     "2020-12-14.md",
-    "k2020-12-16.md",
-    "2020-12-16.md",
     "2020-12-13.md",
-    "2020-12-12.md",
     "2020-12-10.md",
+    "2020-12-08.md",
     "2020-12-09.md",
-    "Untitled.md",
-    "2020-12-08.md"
+    "2020-12-23.md",
+    "README.md"
   ]
 }
